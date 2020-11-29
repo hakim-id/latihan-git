@@ -35,7 +35,7 @@ $siswa4 = new Siswa(114,"Tri","Cinambo, Bandung",10,16,"Juara 2","Fisika","Provi
 $siswa5 = new Siswa(115,"Dian","Lengkong, Bandung",12,17,"Juara 1","Matematika","Nasional");
 $siswa6 = new Siswa(116,"Sri","Lengkong, Bandung",11,17,"Juara 2","Matematika","Kota/Kabupaten");
 $siswa7 = new Siswa(117,"Putri","Sukasari, Bandung",11,16,"Juara 1","Kimia","Kota/Kabupaten");
-$siswa8 = new Siswa(118,"Eka","Antapani, Bandung",10,15,"Juara 2","Biologi","test");
+$siswa8 = new Siswa(118,"Eka","Antapani, Bandung",10,15,"Juara 2","Biologi","test2");
 
 
 
